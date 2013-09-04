@@ -21,7 +21,7 @@
 course-releases</url>
 		</repository>
 		<snapshotRepository>
-			<id>snapshots</id>
+			<id>psureshk-SNAPSHOT</id>
 			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/
 course-snapshots</url>
 		</snapshotRepository>
