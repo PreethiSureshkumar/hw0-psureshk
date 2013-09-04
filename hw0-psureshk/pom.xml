@@ -4,9 +4,9 @@
 	<artifactId>hw0-psureshk</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<scm>
-		<connection>scm:git:git://github.com/PreethiSureshkumar/hw0-psureshk.git</connection>
-		<developerConnection>scm:git:git://github.com/PreethiSureshkumar/hw0-psureshk.git</developerConnection>
-		<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-releases</url>
+		<connection>scm:git:https://github.com/PreethiSureshkumar/hw0-psureshk.git</connection>
+		<developerConnection>scm:git:https://github.com/PreethiSureshkumar/hw0-psureshk.git</developerConnection>
+		<url>https://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-releases</url>
 	</scm>
 	<repositories>
 		<repository>
